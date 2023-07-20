@@ -4,5 +4,6 @@
         <page name='let_var'/>
         <page name='Datatype'/>
         <page name='Collection'/>
+        <page name='Function'/>
     </pages>
 </playground>
