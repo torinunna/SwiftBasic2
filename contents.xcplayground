@@ -3,5 +3,6 @@
     <pages>
         <page name='let_var'/>
         <page name='Datatype'/>
+        <page name='Collection'/>
     </pages>
 </playground>
