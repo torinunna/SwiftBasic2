@@ -6,5 +6,6 @@
         <page name='Collection'/>
         <page name='Function'/>
         <page name='ConditionalStatement'/>
+        <page name='RepeatitiveStatement'/>
     </pages>
 </playground>
