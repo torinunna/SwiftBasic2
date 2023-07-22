@@ -8,6 +8,7 @@
         <page name='ConditionalStatement'/>
         <page name='RepeatitiveStatement'/>
         <page name='Optional'/>
-        <page name='OptionalBinding'/>
+        <page name='OptionalUnwrapping'/>
+        <page name='Struct'/>
     </pages>
 </playground>
