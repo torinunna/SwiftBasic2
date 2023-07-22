@@ -8,5 +8,6 @@
         <page name='ConditionalStatement'/>
         <page name='RepeatitiveStatement'/>
         <page name='Optional'/>
+        <page name='OptionalBinding'/>
     </pages>
 </playground>
