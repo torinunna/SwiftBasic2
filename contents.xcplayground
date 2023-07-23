@@ -15,5 +15,6 @@
         <page name='Property'/>
         <page name='Class_Struct'/>
         <page name='Inheritance'/>
+        <page name='Typecasting'/>
     </pages>
 </playground>
