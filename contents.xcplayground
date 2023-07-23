@@ -14,5 +14,6 @@
         <page name='init'/>
         <page name='Property'/>
         <page name='Class_Struct'/>
+        <page name='Inheritance'/>
     </pages>
 </playground>
