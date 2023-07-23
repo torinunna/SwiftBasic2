@@ -16,5 +16,6 @@
         <page name='Class_Struct'/>
         <page name='Inheritance'/>
         <page name='Typecasting'/>
+        <page name='assert_guard'/>
     </pages>
 </playground>
