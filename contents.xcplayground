@@ -22,5 +22,6 @@
         <page name='Enum'/>
         <page name='OptionalChaining'/>
         <page name='try-catch'/>
+        <page name='Closure'/>
     </pages>
 </playground>
