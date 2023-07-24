@@ -18,5 +18,6 @@
         <page name='Typecasting'/>
         <page name='assert_guard'/>
         <page name='Protocol'/>
+        <page name='Extension'/>
     </pages>
 </playground>
