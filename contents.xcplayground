@@ -19,5 +19,6 @@
         <page name='assert_guard'/>
         <page name='Protocol'/>
         <page name='Extension'/>
+        <page name='Enum'/>
     </pages>
 </playground>
